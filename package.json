@@ -1,0 +1,20 @@
+{
+  "name": "ticket_reimbursement_system",
+  "version": "1.0.0",
+  "description": "RESTfull API for a ticketing reimbursement system made for a company.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malekus40/ticket_reimbursement_system.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/malekus40/ticket_reimbursement_system/issues"
+  },
+  "homepage": "https://github.com/malekus40/ticket_reimbursement_system#readme"
+}
