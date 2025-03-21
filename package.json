@@ -2,9 +2,9 @@
   "name": "ticket_reimbursement_system",
   "version": "1.0.0",
   "description": "RESTfull API for a ticketing reimbursement system made for a company.",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest --coverage"
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,19 @@
   "bugs": {
     "url": "https://github.com/malekus40/ticket_reimbursement_system/issues"
   },
-  "homepage": "https://github.com/malekus40/ticket_reimbursement_system#readme"
+  "homepage": "https://github.com/malekus40/ticket_reimbursement_system#readme",
+  "dependencies": {
+    "@aws-sdk/client-dynamodb": "^3.772.0",
+    "@aws-sdk/lib-dynamodb": "^3.772.0",
+    "bcrypt": "^5.1.1",
+    "bcryptjs": "^3.0.2",
+    "express": "^4.21.2",
+    "jest": "^29.7.0",
+    "jsonwebtoken": "^9.0.2",
+    "uuid": "^11.1.0",
+    "winston": "^3.17.0"
+  },
+  "devDependencies": {
+    "supertest": "^7.1.0"
+  }
 }

@@ -1,0 +1,95 @@
+2025-03-21T07:14:09.534Z [error]: Invalid ConditionExpression: Attribute name is a reserved keyword; reserved keyword: user
+2025-03-21T07:20:19.355Z [error]: Invalid ConditionExpression: Attribute name is a reserved keyword; reserved keyword: user
+2025-03-21T07:52:05.662Z [error]: One or more parameter values were invalid: Missing the key created_at in the item
+2025-03-21T08:11:20.911Z [error]: The conditional request failed
+2025-03-21T08:11:28.980Z [error]: The conditional request failed
+2025-03-21T08:17:51.338Z [info]: got to here
+2025-03-21T08:18:22.436Z [info]: got to here
+2025-03-21T08:19:08.354Z [info]: got to here 
+2025-03-21T08:20:09.379Z [info]: got to this place [object Object]
+2025-03-21T08:20:37.232Z [info]: got to this place user3
+2025-03-21T08:21:02.047Z [info]: got to this place user3
+2025-03-21T08:28:04.719Z [info]: got to this place user3
+2025-03-21T08:29:58.338Z [info]: got to this place user3
+2025-03-21T08:38:39.526Z [error]: jwt expired
+2025-03-21T08:38:39.680Z [error]: One or more parameter values were invalid: Missing the key PK in the item
+2025-03-21T08:42:34.055Z [error]: jwt expired
+2025-03-21T08:42:34.057Z [info]: we got to here
+2025-03-21T08:42:34.263Z [error]: One or more parameter values were invalid: Missing the key PK in the item
+2025-03-21T08:43:15.187Z [error]: jwt expired
+2025-03-21T08:43:15.190Z [info]: we got to here
+2025-03-21T08:43:15.408Z [error]: One or more parameter values were invalid: Missing the key PK in the item
+2025-03-21T08:44:34.650Z [error]: jwt expired
+2025-03-21T08:44:34.878Z [error]: One or more parameter values were invalid: Missing the key PK in the item
+2025-03-21T08:46:13.820Z [error]: One or more parameter values were invalid: Missing the key PK in the item
+2025-03-21T08:47:18.735Z [info]: we got to here
+2025-03-21T08:47:18.944Z [error]: One or more parameter values were invalid: Missing the key PK in the item
+2025-03-21T08:48:14.072Z [info]: we got to here
+2025-03-21T08:54:23.682Z [error]: Query condition missed key schema element: PK
+2025-03-21T08:57:14.022Z [error]: Query condition missed key schema element: PK
+2025-03-21T08:57:50.509Z [info]: user_id is user3
+2025-03-21T08:57:50.724Z [error]: Query condition missed key schema element: PK
+2025-03-21T08:59:39.332Z [info]: user_id is user3
+2025-03-21T09:00:27.230Z [info]: we got to here
+2025-03-21T09:00:37.076Z [info]: user_id is user3
+2025-03-21T10:00:09.384Z [info]: we got to here
+2025-03-21T10:03:25.374Z [info]: we got to here
+2025-03-21T10:19:29.633Z [error]: The conditional request failed
+2025-03-21T10:21:27.588Z [error]: The conditional request failed
+2025-03-21T11:01:48.863Z [error]: jwt malformed
+2025-03-21T12:17:35.337Z [error]: jwt malformed
+2025-03-21T12:23:21.940Z [info]: we got to here
+2025-03-21T12:29:05.857Z [info]: we got to here
+2025-03-21T12:29:05.872Z [info]: we got to here
+2025-03-21T12:29:05.873Z [error]: Put error
+2025-03-21T12:29:05.876Z [error]: Update error
+2025-03-21T12:29:05.879Z [error]: Query error
+2025-03-21T12:29:05.880Z [error]: Query error
+2025-03-21T12:29:06.034Z [info]: we got to here
+2025-03-21T12:54:26.949Z [error]: jwt malformed
+2025-03-21T12:57:15.760Z [error]: jwt malformed
+2025-03-21T12:57:15.762Z [info]: its hard to print
+2025-03-21T12:57:56.212Z [error]: jwt malformed
+2025-03-21T12:58:09.367Z [error]: jwt malformed
+2025-03-21T12:59:33.425Z [error]: jwt malformed
+2025-03-21T12:59:33.427Z [error]: jwt malformed
+2025-03-21T13:00:07.973Z [error]: jwt malformed
+2025-03-21T13:01:14.121Z [error]: jwt malformed
+2025-03-21T13:01:42.251Z [error]: jwt malformed
+2025-03-21T13:02:06.793Z [error]: jwt malformed
+2025-03-21T13:05:29.378Z [error]: jwt malformed
+2025-03-21T13:05:49.086Z [info]: haha employee
+2025-03-21T13:08:00.054Z [error]: jwt malformed
+2025-03-21T13:08:17.063Z [info]: haha user2
+2025-03-21T13:09:01.561Z [error]: jwt malformed
+2025-03-21T13:10:50.561Z [info]: haha user2
+2025-03-21T13:11:04.201Z [info]: haha user2
+2025-03-21T13:11:19.529Z [error]: jwt malformed
+2025-03-21T13:11:31.358Z [info]: haha user2
+2025-03-21T13:11:44.056Z [error]: jwt malformed
+2025-03-21T13:11:44.057Z [error]: jwt malformed
+2025-03-21T13:18:09.825Z [info]: haha user2
+2025-03-21T13:20:49.819Z [info]: here employee
+2025-03-21T13:21:12.117Z [info]: here employee
+2025-03-21T13:21:12.118Z [info]: haha user2
+2025-03-21T13:22:02.719Z [info]: here employee
+2025-03-21T13:22:11.415Z [info]: here manager
+2025-03-21T13:22:44.397Z [info]: here employee
+2025-03-21T13:22:44.398Z [info]: haha user2
+2025-03-21T13:26:55.463Z [info]: here employee
+2025-03-21T13:26:55.711Z [info]: i love coding user3
+2025-03-21T13:27:58.408Z [info]: here manager
+2025-03-21T13:27:58.514Z [info]: i love coding user2
+2025-03-21T13:32:55.354Z [info]: here employee
+2025-03-21T13:32:55.615Z [info]: i love coding user3
+2025-03-21T13:33:05.573Z [info]: here employee
+2025-03-21T13:33:05.574Z [info]: haha user2
+2025-03-21T13:37:00.259Z [info]: here employee
+2025-03-21T13:37:00.534Z [info]: i love coding user3
+2025-03-21T13:39:07.772Z [info]: here employee
+2025-03-21T13:39:08.061Z [info]: i love codinguser3
+2025-03-21T13:41:33.940Z [error]: jwt expired
+2025-03-21T13:43:16.544Z [error]: jwt expired
+2025-03-21T13:43:50.770Z [error]: jwt expired
+2025-03-21T13:44:13.271Z [error]: jwt expired
+2025-03-21T13:44:13.377Z [info]: i love codinguser4
