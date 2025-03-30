@@ -19,14 +19,6 @@ async function createTicket(ticket) {
     return result;
 }
 
-async function getTicketsByUser(username) {
-    if (!username) {
-        return null;
-    }
-    const tickets = await ticketDAO.getTicketsByUser(username);
-    return tickets;
-}
-
 async function updateTicketStatus(username, ticket_id, newStatus) {
     if (!username || !ticket_id || !newStatus) {
         return null;
@@ -71,6 +63,5 @@ module.exports = {
     createTicket,
     getTicketsByUser,
     updateTicketStatus,
-    getPendingTickets,
-    getTicketsByUser
+    getPendingTickets
 };

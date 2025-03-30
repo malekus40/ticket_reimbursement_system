@@ -93,3 +93,11 @@
 2025-03-21T13:43:50.770Z [error]: jwt expired
 2025-03-21T13:44:13.271Z [error]: jwt expired
 2025-03-21T13:44:13.377Z [info]: i love codinguser4
+2025-03-21T14:41:46.929Z [error]: jwt malformed
+2025-03-21T14:47:07.655Z [error]: jwt malformed
+2025-03-21T14:50:22.477Z [error]: jwt malformed
+2025-03-21T14:51:18.275Z [error]: jwt malformed
+2025-03-21T15:34:04.385Z [error]: The conditional request failed
+2025-03-21T15:35:38.363Z [error]: jwt malformed
+2025-03-21T15:35:45.867Z [error]: jwt malformed
+2025-03-21T15:36:08.853Z [error]: jwt malformed
